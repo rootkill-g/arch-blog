@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Rootkill's First Blog!",
+      "body": "Hey! So basically I'm trying to get hired with designation as Rust Developer or Blockchain Developer! Just had an screening interview with Shikha, she was either over motivated or she's just an extrovert!",
+      "author": "rootkill",
+      "id": 2
+    },
+    {
+      "title": "Rust Developer Job!",
+      "body": "Trying my best to get hired as a rust developer because that's a new technology and I'm really really excited about programming rust!",
+      "author": "rootkill",
+      "id": 3
+    },
+    {
+      "title": "Hello Friend!",
+      "body": "What I’m about to tell you is top secret, a conspiracy bigger than all of us. There’s a powerful group of people out there that are secretly running the world. I’m talking about the guys no one knows about, the guys that are invisible. The top 1% of the top 1%, the guys that play God without permission. And now I think they’re following me.",
+      "author": "elliot",
+      "id": 4
+    }
+  ]
+}
