@@ -1,22 +1,10 @@
 {
   "blogs": [
     {
-      "title": "Rootkill's First Blog!",
-      "body": "Hey! So basically I'm trying to get hired with designation as Rust Developer or Blockchain Developer! Just had an screening interview with Shikha, she was either over motivated or she's just an extrovert!",
+      "title": "Best Linux Distributions",
+      "body": "1. Arch Linux : Once you get gist of handling packages and your needs, you'll find Archlinux to be perfect for your every need that you want from your system. If you stay on stable repository, you will never break your system, that may happen if you switch to unstable repository, but downgrading is just as easy as installing packages.\n2. Fedora : If you're quite comfortable with some unstable packages and you know how to downgrade packages, then you'll almost every time get out of a broken update. And the best part is - The packages are the most up to date if you're using the rawhide, but if you want to stay on the stable versions, those will also be very new updates.\n3. Debian : Stable maybe holding way too old packages that you don't like using debian, but if you switch to the testing or the unstable repositories then you will enjoy a system almost like the fedora.",
       "author": "rootkill",
-      "id": 2
-    },
-    {
-      "title": "Rust Developer Job!",
-      "body": "Trying my best to get hired as a rust developer because that's a new technology and I'm really really excited about programming rust!",
-      "author": "rootkill",
-      "id": 3
-    },
-    {
-      "title": "Hello Friend!",
-      "body": "What I’m about to tell you is top secret, a conspiracy bigger than all of us. There’s a powerful group of people out there that are secretly running the world. I’m talking about the guys no one knows about, the guys that are invisible. The top 1% of the top 1%, the guys that play God without permission. And now I think they’re following me.",
-      "author": "elliot",
-      "id": 4
+      "id": 1
     }
   ]
 }
